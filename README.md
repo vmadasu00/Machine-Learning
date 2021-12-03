@@ -1,1 +1,1 @@
-# Machine-Learning
+# Machine-Learning Logistic Regression Titanic Data
